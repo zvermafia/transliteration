@@ -1,21 +1,22 @@
 {
-    "name": "zvermafia/alif-api-wrapper",
+    "name": "zvermafia/transliteration",
     "type": "library",
-    "description": "API wrapper for the alif.uz (online transliteration service, uzbek latin <=> uzbek cyrillic)",
+    "description": "Uzbek latin <=> cyrillic transliterator",
     "keywords": [
+        "transliterator",
+        "uzbek",
         "library",
         "package",
-        "api",
-        "wrapper"
+        "api"
     ],
-    "homepage": "https://github.com/zvermafia/alif-api-wrapper",
+    "homepage": "https://github.com/zvermafia/transliterator",
     "license": "MIT",
     "authors": [
         {
             "name": "Mokhirjon Naimov",
             "email": "mohirjon@gmail.com",
             "homepage": "https://twitter.com/zvermafia",
-            "role": "Developer"
+            "role": "Maintainer"
         }
     ],
     "require": {
