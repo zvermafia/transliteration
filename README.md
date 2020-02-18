@@ -132,17 +132,17 @@ If you discover any security related issues, please email mohirjon@gmail.com ins
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/zvermafia/alif-api-wrapper.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/zvermafia/transliteration.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/zvermafia/alif-api-wrapper/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/zvermafia/alif-api-wrapper.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/zvermafia/alif-api-wrapper.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/zvermafia/alif-api-wrapper.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/zvermafia/transliteration/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/zvermafia/transliteration.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/zvermafia/transliteration.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/zvermafia/transliteration.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/zvermafia/alif-api-wrapper
-[link-travis]: https://travis-ci.org/zvermafia/alif-api-wrapper
-[link-scrutinizer]: https://scrutinizer-ci.com/g/zvermafia/alif-api-wrapper/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/zvermafia/alif-api-wrapper
-[link-downloads]: https://packagist.org/packages/zvermafia/alif-api-wrapper
+[link-packagist]: https://packagist.org/packages/zvermafia/transliteration
+[link-travis]: https://travis-ci.org/zvermafia/transliteration
+[link-scrutinizer]: https://scrutinizer-ci.com/g/zvermafia/transliteration/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/zvermafia/transliteration
+[link-downloads]: https://packagist.org/packages/zvermafia/transliteration
 [link-author]: https://github.com/zvermafia
 [link-contributors]: ../../contributors
