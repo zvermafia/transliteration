@@ -46,8 +46,7 @@ $transliterator = new Zvermafia\Transliteration\AlifTransliterator(); // or you 
 
 $transliterator->setText("Salom, dunyo!")
     ->toCyrillic()
-    ->translit()
-    getResult();
+    ->translit();
 
 echo $transliterator->getResult(); // it will output: Салом, дунё!
 ```
@@ -93,8 +92,8 @@ class MyTransliterator extends TransliteratorAbstract
     public function translit(): : TransliteratorInterface
     {
         $text = $this->getText();
-        // $result = ... // translit the text
-        $this->setResult($text);
+        // $result = ... // here translit the text
+        $this->setResult($result);
 
         return $this;
     }
